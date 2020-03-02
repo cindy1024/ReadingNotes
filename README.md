@@ -1,2 +1,2 @@
-# ReadingNotes
-Some sentences extracted from books I have read.
+# 阅读笔记
+个人阅读摘录
