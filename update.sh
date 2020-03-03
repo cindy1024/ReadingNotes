@@ -1,5 +1,5 @@
 #!/bin/bash
-cur_date="`date '+%Y-%m-%d %H:%M:%S'`"
+cur_date="`date '+%Y-%m-%d_%H:%M:%S'`"
 
 git checkout master
 
